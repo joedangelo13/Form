@@ -1,0 +1,25 @@
+.label{
+	float:left;
+	clear:left;
+	margin-bottom:18px;
+}
+.g-recaptcha{
+	clear:left;
+	margin-bottom:18px;
+}
+#submit{
+	clear:left;
+}
+.field{
+	margin-left:17px;
+
+}
+#splashform label.error {
+color:red;
+}
+#splashform input.error {
+border:1px solid red;
+}
+#submit{
+	clear:left;
+}
